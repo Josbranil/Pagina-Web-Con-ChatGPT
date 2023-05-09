@@ -1,1 +1,1 @@
-# Pagina-Web-Con-ChatGPT
+# Página web creda con la ayuda de ChatGPT para el 'Curso de Creación de Páginas Web con ChatGPT'
