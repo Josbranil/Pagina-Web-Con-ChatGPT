@@ -1,0 +1,67 @@
+   /* Reset de estilos para el body */
+    body {
+    margin: 0;
+    padding: 0;
+    }
+
+    /* Estilos generales para los encabezados */
+    h1, h2 {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    }
+
+    /* Estilos para la sección de inicio */
+    #inicio {
+    padding: 50px;
+    color: white;
+    background-color: #00a1f1;
+    }
+
+    #inicio img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    }
+
+
+    /* Estilos para la sección de habilidades */
+    #habilidades {
+    padding: 50px;
+    background-color: #bcebf5;
+    }
+
+    /* Estilos para la lista de habilidades */
+    #habilidades ul {
+    list-style-type: none;
+    }
+
+    /* Estilos para la sección de proyectos */
+    #proyectos {
+    padding: 50px;
+    background-color: rgb(255, 253, 143);
+    }
+
+    /* Estilos para la lista de proyectos */
+    #proyectos ul {
+    list-style-type: none;
+    }
+
+    /* Estilos para la sección de contacto */
+    #contacto {
+    padding: 50px;
+    background-color: #FFBA08;
+    }
+
+    /* Estilos para la lista de contacto */
+    #contacto ul {
+    list-style-type: none;
+    }
+
+    /* Estilos generales para los párrafos y listas */
+    p, ul {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    }
