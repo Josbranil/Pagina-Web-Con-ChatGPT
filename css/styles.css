@@ -2,6 +2,7 @@
     body {
     margin: 0;
     padding: 0;
+    color: white;
     }
 
     /* Estilos generales para los encabezados */
@@ -15,8 +16,7 @@
     /* Estilos para la sección de inicio */
     #inicio {
     padding: 50px;
-    color: white;
-    background-color: #00a1f1;
+    background-color: #00052f;
     }
 
     #inicio img {
@@ -29,7 +29,7 @@
     /* Estilos para la sección de habilidades */
     #habilidades {
     padding: 50px;
-    background-color: #bcebf5;
+    background-color: #001194;
     }
 
     /* Estilos para la lista de habilidades */
@@ -40,7 +40,7 @@
     /* Estilos para la sección de proyectos */
     #proyectos {
     padding: 50px;
-    background-color: rgb(255, 253, 143);
+    background-color: #2d3ba0;
     }
 
     /* Estilos para la lista de proyectos */
@@ -51,7 +51,7 @@
     /* Estilos para la sección de contacto */
     #contacto {
     padding: 50px;
-    background-color: #FFBA08;
+    background-color: #454e97;
     }
 
     /* Estilos para la lista de contacto */
@@ -63,5 +63,5 @@
     p, ul {
     font-family: Arial, sans-serif;
     font-size: 16px;
-    color: #333;
+    color: white;
     }
